@@ -1,4 +1,5 @@
 
-app = 'flask app'
+
+app = 'Flask app'
 
 port = 5000
